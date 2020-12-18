@@ -1,1 +1,1 @@
-worker: python PWscraping.py
+worker: python PWScraping.py
